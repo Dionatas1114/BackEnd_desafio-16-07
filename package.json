@@ -1,0 +1,22 @@
+{
+    "name": "desafio-25-06",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/Dionatas1114/desafio-25-06.git",
+    "author": "master <62730023+Dionatas1114@users.noreply.github.com>",
+    "license": "MIT",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "pg": "^8.2.1",
+        "pg-hstore": "^2.3.3",
+        "sequelize": "^6.2.3"
+    },
+    "devDependencies": {
+        "axios": "^0.19.2",
+        "nodemon": "^2.0.4"
+    }
+}
